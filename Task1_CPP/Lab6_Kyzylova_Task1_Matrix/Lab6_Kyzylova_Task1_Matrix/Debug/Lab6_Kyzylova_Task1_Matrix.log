@@ -1,0 +1,19 @@
+﻿Сборка начата 27.05.2021 13:55:44.
+     1>Проект "C:\Users\student\Desktop\ИТОГ\Lab6\Task1_CPP\Lab6_Kyzylova_Task1_Matrix\Lab6_Kyzylova_Task1_Matrix\Lab6_Kyzylova_Task1_Matrix.vcxproj" в узле 2 (целевые объекты Build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(355,5): warning MSB8003: Could not find WindowsSDKDir variable from the registry.  TargetFrameworkVersion or PlatformToolset may be set to an invalid version number.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib UnitMain.cpp
+         UnitMain.cpp
+     1>c:\users\student\desktop\итог\lab6\task1_cpp\lab6_kyzylova_task1_matrix\lab6_kyzylova_task1_matrix\UnitMain.h(2811): warning C4101: cols: неиспользованная локальная переменная
+     1>c:\users\student\desktop\итог\lab6\task1_cpp\lab6_kyzylova_task1_matrix\lab6_kyzylova_task1_matrix\UnitMain.h(2811): warning C4101: rows: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\student\Desktop\ИТОГ\Lab6\Task1_CPP\Lab6_Kyzylova_Task1_Matrix\Debug\Lab6_Kyzylova_Task1_Matrix.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Lab6_Kyzylova_Task1_Matrix.UnitAbout.resources /ASSEMBLYRESOURCE:Debug\Lab6_Kyzylova_Task1_Matrix.UnitHelp.resources /ASSEMBLYRESOURCE:Debug\Lab6_Kyzylova_Task1_Matrix.UnitMain.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\student\Desktop\ИТОГ\Lab6\Task1_CPP\Lab6_Kyzylova_Task1_Matrix\Debug\Lab6_Kyzylova_Task1_Matrix.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\UnitAbout.obj
+         Debug\UnitHelp.obj
+         Debug\UnitMain.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Lab6_Kyzylova_Task1_Matrix.vcxproj -> C:\Users\student\Desktop\ИТОГ\Lab6\Task1_CPP\Lab6_Kyzylova_Task1_Matrix\Debug\Lab6_Kyzylova_Task1_Matrix.exe
+     1>Сборка проекта "C:\Users\student\Desktop\ИТОГ\Lab6\Task1_CPP\Lab6_Kyzylova_Task1_Matrix\Lab6_Kyzylova_Task1_Matrix\Lab6_Kyzylova_Task1_Matrix.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.11
